@@ -1,2 +1,2 @@
 # transcriptx
-autommated annotation pipeline for whole-transcriptome assemblies
+Autommated annotation pipeline for whole-transcriptome assemblies
